@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Crypto Trading Tools/ViewController.swift"
+            timestampString = "556003585.682083"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Crypto_Trading_Tools.ViewController.tradeTotalBTC.getter : Swift.Optional&lt;Swift.Array&lt;__ObjC.UILabel&gt;&gt;"
+                  moduleName = "Crypto Trading Tools"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dennisli/Desktop/Computer%20Science/iOS/Personal%20Projects/Crypto%20Trading%20Tools/Crypto%20Trading%20Tools/ViewController.swift"
+                  timestampString = "555995754.290567"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "105">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Crypto_Trading_Tools.ViewController.tradeTotalBTC.setter : Swift.Optional&lt;Swift.Array&lt;__ObjC.UILabel&gt;&gt;"
+                  moduleName = "Crypto Trading Tools"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dennisli/Desktop/Computer%20Science/iOS/Personal%20Projects/Crypto%20Trading%20Tools/Crypto%20Trading%20Tools/ViewController.swift"
+                  timestampString = "555995754.293407"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "110">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Crypto_Trading_Tools.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Crypto_Trading_Tools.ViewController"
+                  moduleName = "Crypto Trading Tools"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dennisli/Desktop/Computer%20Science/iOS/Personal%20Projects/Crypto%20Trading%20Tools/Crypto%20Trading%20Tools/ViewController.swift"
+                  timestampString = "555995754.295786"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "351">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Crypto_Trading_Tools.ViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Crypto_Trading_Tools.ViewController&gt;"
+                  moduleName = "Crypto Trading Tools"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dennisli/Desktop/Computer%20Science/iOS/Personal%20Projects/Crypto%20Trading%20Tools/Crypto%20Trading%20Tools/ViewController.swift"
+                  timestampString = "555995754.2980371"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "264">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
