@@ -1,6 +1,6 @@
 # Personal-iOS-Apps
 
-# Crypto Trading Tools
+## Crypto Trading Tools
 This On-Going Application provides various tools that Cryptocurrency and Stock traders can utilize. 
 
 Currently, application supports a laddering buy-ins tool. 
