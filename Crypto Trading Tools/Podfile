@@ -1,0 +1,14 @@
+# Uncomment the next line to define a global platform for your project
+ platform :ios, '9.0'
+
+target 'Crypto Trading Tools' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+	pod "PickerView"
+	pod "SwiftyJSON"
+	pod "Alamofire"
+	pod "Charts"
+
+  # Pods for Crypto Trading Tools
+
+end
