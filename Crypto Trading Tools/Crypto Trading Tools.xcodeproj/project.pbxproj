@@ -12,6 +12,7 @@
 		179D2E1E211E5161000E6440 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 179D2E1C211E5161000E6440 /* Main.storyboard */; };
 		179D2E20211E5164000E6440 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 179D2E1F211E5164000E6440 /* Assets.xcassets */; };
 		179D2E23211E5164000E6440 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 179D2E21211E5164000E6440 /* LaunchScreen.storyboard */; };
+		17CC8BFC21654A5300EE935B /* LadderingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17CC8BFB21654A5300EE935B /* LadderingViewController.swift */; };
 		86481AF9D0F4994BA1433D93 /* Pods_Crypto_Trading_Tools.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 380735A75D70570911C2DC43 /* Pods_Crypto_Trading_Tools.framework */; };
 /* End PBXBuildFile section */
 
@@ -23,6 +24,7 @@
 		179D2E1F211E5164000E6440 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		179D2E22211E5164000E6440 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		179D2E24211E5164000E6440 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		17CC8BFB21654A5300EE935B /* LadderingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LadderingViewController.swift; sourceTree = "<group>"; };
 		380735A75D70570911C2DC43 /* Pods_Crypto_Trading_Tools.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Crypto_Trading_Tools.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		45F1C48E591BF23F7FF8AC07 /* Pods-Crypto Trading Tools.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Crypto Trading Tools.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Crypto Trading Tools/Pods-Crypto Trading Tools.debug.xcconfig"; sourceTree = "<group>"; };
 		FFD4F5199087EC5E4D82313B /* Pods-Crypto Trading Tools.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Crypto Trading Tools.release.xcconfig"; path = "Pods/Target Support Files/Pods-Crypto Trading Tools/Pods-Crypto Trading Tools.release.xcconfig"; sourceTree = "<group>"; };
@@ -76,6 +78,7 @@
 				179D2E1F211E5164000E6440 /* Assets.xcassets */,
 				179D2E21211E5164000E6440 /* LaunchScreen.storyboard */,
 				179D2E24211E5164000E6440 /* Info.plist */,
+				17CC8BFB21654A5300EE935B /* LadderingViewController.swift */,
 			);
 			path = "Crypto Trading Tools";
 			sourceTree = "<group>";
@@ -208,6 +211,7 @@
 			files = (
 				179D2E1B211E5161000E6440 /* ViewController.swift in Sources */,
 				179D2E19211E5161000E6440 /* AppDelegate.swift in Sources */,
+				17CC8BFC21654A5300EE935B /* LadderingViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
